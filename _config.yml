@@ -1,7 +1,7 @@
 name: Copper and Coal
 favicon: null
-layout_spectrum: 0.14253019634634256
-typography_spectrum: 0.2768035139888525
+layout_spectrum: 0.73305
+typography_spectrum: 0.11441
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#101312'
+    - '#57493c'
+    - '#93898a'
+    - '#776250'
+    - '#333331'
   brandStrength: 0.9044261057861149
-  lightness: 0.524562590289861
-  saturation: 0.3797523654066026
-  rhythmicContrast: 0.23547586100175977
+  lightness: 0.5
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
